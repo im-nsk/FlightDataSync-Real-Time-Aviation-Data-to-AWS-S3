@@ -28,3 +28,6 @@ Similarly, issues might occur while creating CSV files, warranting careful verif
 Additionally, challenges may arise during the upload to S3, necessitating the granting of necessary permissions to both the user and the S3 bucket.
 
 **DISCLAIMER**: I have removed all my credentials, so you will need to generate new credentials for accessing the AviationStack API and obtain AWS access keys by creating a role.
+
+
+IF IT'S HELPFUL LIKE IT THEN START IT.
